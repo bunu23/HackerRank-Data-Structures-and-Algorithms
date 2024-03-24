@@ -2,6 +2,7 @@
 
 # Warmup
 
+| |||
 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/) | [Link](warmup) |
 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/) | [Link](warmup) |
 | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/) | [Link](warmup) |
